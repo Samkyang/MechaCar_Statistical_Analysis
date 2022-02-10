@@ -50,8 +50,19 @@ lot2 has a pvalue of 0.6072 so we cannot rejeect the null hypothesis.
 lot2 has a pvalue of 0.04168 which is lower than 0.05 so the PSI for lot3 is statisticall different than the population mean.
 
 ## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
+To compare the MechaCar's performance against it's competitors, I would need to first find it's competitors. To do this I would find other cars in it's price range then compare the acceleration, fuel/electricity efficiency, size, safety rating. I would then compare it amongst other cars in its class against the same metrics: price, acceleration, fuel efficiency, saftey. 
 
+What is the null hypothesis or alternative hypothesis?
+The null hypothesis would be: MechaCar is a good value based on its performance on the metrics mentioned above.
+the Alternattive hypothesis would be: MechaCar is not a good value based on its performance on the metrics mentioned above.
+
+What statistical test would you use to test the hypothesis? And why?
+I would use the ANOVA testing because I would be able to do head-to-head testing to compare different metrics I am evaluating.
+
+What data is needed to run the statistical test?
+I would need the performance data from other car manufacturers. This data is usually published on the car manufacturers sites.
 
 
 
